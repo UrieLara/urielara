@@ -1,7 +1,7 @@
 ## Hi! I'm Uriel Lara ✌️
- _Mechatronic & Computer Systems Engineer_ 🤖💻
+ _Mechatronic & Computer Systems Engineer_ 
 
-- 👨🏽‍💻 Junior C# NET developer - Working on gaining experience through personal projects.
+- 👨🏽‍💻 Junior ASP.NET - Working on gaining experience through personal projects.
 - 🎮Game development enthusiast - Creating 2D and 3D games on Unity in my free time.
 
 ~ I enjoy programming as much as coffee ☕ ~
