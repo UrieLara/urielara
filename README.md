@@ -1,7 +1,7 @@
 ## Hello! I'm Uriel Lara 
 
-- 👨🏽‍💻 Web Programmer in ASP.NET and C# - Focused on Ecommerce.
-- 🎮 Video Game Developer - Creating 2D and 3D games on Unity.
+- 👨🏽‍💻 Jr Web Programmer in ASP.NET and C#.
+- 🎮 Future Video Game Developer.
 
 ~ I enjoy programming as much as coffee ☕ ~
 
