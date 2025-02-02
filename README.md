@@ -1,6 +1,6 @@
-## Hello! I'm Uriel Lara 
+## Hello! ✌️ I'm Uriel Lara 
 
-- 👨🏽‍💻 Jr Web Programmer in ASP.NET and C#.
+- 👨🏽‍💻 .NET Developer Jr
 - 🎮 Future Video Game Developer.
 
 ~ I enjoy programming as much as coffee ☕ ~
