@@ -1,7 +1,10 @@
 ## Hello! ✌️ I'm Uriel Lara 
+Mechatronics & Sistem Computer Engineer
 
-- 👨🏽‍💻 .NET Developer Jr
-- 🎮 Future Video Game Developer.
+I am proficient in JavaScript, HTML, and CSS.\
+💻 I am currently learning ASP.NET as a hobby, driven by my enjoyment of C# and SQL databases. 
+
+🎮 I am also interested in video game programming, particularly with Unity. 
 
 ~ I enjoy programming as much as coffee ☕ ~
 
