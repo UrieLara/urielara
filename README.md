@@ -1,12 +1,15 @@
-## Hello! ✌️ I'm Uriel Lara 
-Mechatronics & Sistem Computer Engineer
+## Hello! 👋 I'm Uriel Lara
+_Mechatronics & System Computer Engineer._
 
-I am proficient in JavaScript, HTML, and CSS.\
-💻 I am currently learning ASP.NET as a hobby, driven by my enjoyment of C# and SQL databases. 
+💻 With expertise in C#, JavaScript, HTML, and CSS, I enjoy building web pages.
 
-🎮 I am also interested in video game programming, particularly with Unity. 
+🎮 Currently pursuing a Technical Degree in Video Game Development, where I blend my passion for **programming** and **gaming** to create immersive digital experiences.
 
-~ I enjoy programming as much as coffee ☕ ~
+🚀 Occasionally exploring ASP.NET as a hobby, expanding my skills beyond development.
+
+Always eager to learn and code! ✨
+
+~ A good coffee always accompanies my lines of code ☕ ~
 
 <!--
 **UrieLara/urielara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
