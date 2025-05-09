@@ -1,11 +1,11 @@
 ## Hello! 👋 I'm Uriel Lara
 _Mechatronics & System Computer Engineer._
 
-💻 With expertise in C#, JavaScript, HTML, and CSS, I enjoy building web pages.
+💻 With expertise in C#, JavaScript, HTML and CSS.
 
-🎮 Currently pursuing a Technical Degree in Video Game Development, where I blend my passion for **programming** and **gaming** to create immersive digital experiences.
+🚀 I develop web pages using ASP.NET and continuously work on improving my skills in it.
 
-🚀 Occasionally exploring ASP.NET as a hobby, expanding my skills beyond development.
+🎮 Studying Video Game Development, working toward the skills needed to craft immersive digital experiences in the future.
 
 Always eager to learn and code! ✨
 
