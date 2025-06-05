@@ -1,14 +1,14 @@
-## Hello! 👋 I'm Uriel Lara
-_Mechatronics & System Computer Engineer._
+## Hello! 👋 I'm Uriel ##
 
-💻 I'm currently learning and applying C#, JavaScript, HTML, and CSS to develop web pages with ASP.NET. 
-I'm also gaining experience in deploying ASP.NET applications using Docker on Linux servers.
+🎮 Aspiring Video Game Developer
+I'm currently studying Video Game Development, improving my skills to bring ideas to life and create engaging interactive worlds.
 
-🎮 Studying Video Game Development, working toward the skills needed to craft immersive digital experiences in the future.
+💻 While I have experience with JavaScript, HTML, CSS, ASP.NET and deployment on Linux servers for web pages, my main focus is game development.
 
-Always eager to learn and code! ✨
+🔍 I'm continuously learning and coding, building skills for a career in game development.
 
-~ A good coffee always accompanies my lines of code ☕ ~
+☕ ~ _A good coffee always accompanies my lines of code_ ~ 
+
 
 <!--
 **UrieLara/urielara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
