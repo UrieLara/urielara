@@ -1,15 +1,11 @@
 ## Hello! 👋 I'm Uriel ##
 
-🎮 Aspiring Video Game Developer
-I'm currently studying Video Game Development, improving my skills to bring ideas to life and create engaging interactive worlds.
+🎮 I'm Uriel Lara, a passionate **Game Development Student** focused on building immersive interactive worlds.
 
-💻 While I have experience with JavaScript, HTML, CSS, ASP.NET and deployment on Linux servers for web pages, my main focus is game development.
+💻 Currently diving deep into **Unity** and **Godot** engine, and strengthening my skills in **C++/C#** for game logic and systems. 
+<br>While my background includes web development with JavaScript, HTML, CSS, ASP.NET, and Linux server deployment, my true drive is transforming ideas into video games.
 
-🔍 I'm continuously learning and coding, building skills for a career in game development.
-
-☕ ~ _A good coffee always accompanies my lines of code_ ~ 
-
-
+☕ ~ Coding games, fueled by coffee ~
 <!--
 **UrieLara/urielara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
