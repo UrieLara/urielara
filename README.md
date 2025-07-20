@@ -1,6 +1,6 @@
 ## Hello! 👋 I'm Uriel ##
 
-🎮 I'm Uriel Lara, a passionate **Game Development Student** focused on building immersive interactive worlds.
+🎮 A passionate **Game Development Student** focused on building immersive interactive worlds.
 
 💻 Currently diving deep into **Unity** and **Godot** engines, and strengthening my skills in **C++/C#** for game logic and systems. 
 <br>While my background includes web development with JavaScript, HTML, CSS, ASP.NET, and Linux server deployment, my true drive is transforming ideas into video games.
