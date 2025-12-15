@@ -1,22 +1,9 @@
 ## Hello! 👋 I'm Uriel ##
 
-🎮 A passionate **Game Development Student** focused on building immersive interactive worlds.
+🎮 Game Programmer focused on developing gameplay systems and interactive experiences.
 
-💻 Currently diving deep into **Unity** and **Godot** engines, and strengthening my skills in **C++/C#** for game logic and systems. 
-<br>While my background includes web development with JavaScript, HTML, CSS, ASP.NET, and Linux server deployment, my true drive is transforming ideas into video games.
+I work primarily with **Unity (C#)** and **Godot (GDScript)**, building 2D games that focus on gameplay mechanics, player systems, and clean, maintainable code. My background in engineering and software development gives me a strong foundation in logic, problem-solving, and system-oriented thinking.
 
-☕ ~ _Coding games, fueled by coffee_ ~
-<!--
-**UrieLara/urielara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also have experience in web development using **JavaScript, HTML, CSS, ASP.NET**, and basic **Linux server deployment**, which helps me approach game development with a solid understanding of software architecture and tools.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on growing as a **game programmer**, with a strong interest in gameplay systems and interactive technologies.
