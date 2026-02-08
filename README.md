@@ -1,26 +1,25 @@
 ## Hello! 👋 I'm Uriel
 
-🎮 **Game Programmer** with a software development background.
+🎮 **Game Programmer** focused on gameplay systems and interactive experiences.
 
-This GitHub primarily showcases my **game development projects**, where I focus on:
-- Gameplay systems
-- Player mechanics
-- Interactive features
-- Clean, organized, and maintainable code
+This GitHub showcases my **game development projects**, with an emphasis on:
+- Gameplay systems & mechanics
+- Player interaction and game feel
+- Level logic and in-game systems
+- Clean, readable, and maintainable code
 
 I mainly work with:
 - **Unity (C#)**
 - **Godot (GDScript)**
-- 2D game development and system-oriented design
+- 2D game development
+- System-oriented and modular design
 
-Alongside game development, I have professional experience in **software and web development**, including:
-- **ASP.NET Core, Razor Pages, and Blazor**
-- JavaScript, HTML, and CSS
-- Basic Linux server deployment using Docker
+My background in software development helps me approach game programming with strong:
+- Problem-solving skills
+- Code structure and scalability awareness
+- Iterative development mindset
 
-Some of my web projects are not public due to production use, but this background allows me to approach game development with a strong understanding of **software architecture, problem-solving, and engineering practices**.
+📦 **Playable builds are available on my itch.io profile:**  
+👉 [https://urielara.itch.io](https://urielara.itch.io)
 
-📦 **Playable builds of my games are available on my itch.io profile:**  
-👉 *[(Itch.io: UrieLara)](https://urielara.itch.io/)*
-
-I'm currently focused on growing as a **game programmer**, with a strong interest in gameplay systems and interactive technologies.
+Currently focused on growing as a **game programmer**, with a particular interest in gameplay programming, systems design, and iteration-driven development.
