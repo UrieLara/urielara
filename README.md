@@ -2,12 +2,13 @@
 
 🎮 **Game Programmer** focused on gameplay systems and interactive experiences.
 
+<br>
 I develop gameplay mechanics, level logic, and interactive systems using:
 
-• Unity (C#)
-• Godot (GDScript)
+* Unity (C#) <br>
+* Godot (GDScript)
 
-My work focuses on clean, modular code and rapid prototyping of gameplay ideas.
+<br>My work focuses on clean, modular code and rapid prototyping of gameplay ideas.
 
-🎮 Play my projects:
+<br>🎮 Play my projects:
 https://urielara.itch.io
