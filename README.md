@@ -2,24 +2,12 @@
 
 🎮 **Game Programmer** focused on gameplay systems and interactive experiences.
 
-This GitHub showcases my **game development projects**, with an emphasis on:
-- Gameplay systems & mechanics
-- Player interaction and game feel
-- Level logic and in-game systems
-- Clean, readable, and maintainable code
+I develop gameplay mechanics, level logic, and interactive systems using:
 
-I mainly work with:
-- **Unity (C#)**
-- **Godot (GDScript)**
-- 2D game development
-- System-oriented and modular design
+• Unity (C#)
+• Godot (GDScript)
 
-My background in software development helps me approach game programming with strong:
-- Problem-solving skills
-- Code structure and scalability awareness
-- Iterative development mindset
+My work focuses on clean, modular code and rapid prototyping of gameplay ideas.
 
-📦 **Playable builds are available on my itch.io profile:**  
-👉 [https://urielara.itch.io](https://urielara.itch.io)
-
-Currently focused on growing as a **game programmer**, with a particular interest in gameplay programming, systems design, and iteration-driven development.
+🎮 Play my projects:
+https://urielara.itch.io
