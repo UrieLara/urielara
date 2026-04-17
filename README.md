@@ -1,16 +1,16 @@
 ## Hi! 👋 I'm Uriel
+💻 Full Stack Developer | Automation & Systems
 
-💻 Junior Web Developer | Java Backend in progress
-
-I'm a web developer with a background in mechatronics engineering. I build functional websites and web applications using HTML, CSS, and JavaScript, and I'm currently growing into backend development with Java.
-
-My engineering background gives me a strong foundation in problem-solving, system thinking, and writing clean, maintainable code.
+I have hands-on experience deploying and maintaining web applications in Linux environments, as well as improving business workflows through automation.
 
 <h4> 🛠 Tech Stack </h4>
 <ul>
- <li>Frontend: HTML · CSS · JavaScript</li>
-<li>Learning: Java · Spring Boot</li>
-<li>Tools: Git · GitHub · VS Code</li>
+ <li><b>Frontend:</b> HTML · CSS · JavaScript</li>
+ <li><b>Backend:</b> Node.js (basic) </li>
+<li><b> Databases:</b> SQL (basic)  </li>
+ <li> <b>Automation:</b> Excel VBA  </li>
+<li><b>Learning:</b> Java · Spring Boot</li>
+<li><b>Tools:</b> Git · GitHub · VS Code · Docker</li>
 </ul>
 
 <h4> 📫 Let's connect </h4>
