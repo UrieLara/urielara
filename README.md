@@ -1,20 +1,35 @@
-## Hi! 👋 I'm Uriel
-💻 Full Stack Developer | Automation & Systems
+# Hi! 👋 I'm Uriel
 
-I have hands-on experience deploying and maintaining web applications in Linux environments, as well as improving business workflows through automation.
+## Backend Developer in progress | Java · Spring Boot · REST APIs
 
-<h4> 🛠 Tech Stack </h4>
+<p>
+  Mechatronics engineer transitioning into backend development. 
+  I bring hands-on experience deploying web applications on Linux servers 
+  and automating workflows — now focused on building robust backend systems with Java.
+</p>
+
+## 🛠 Tech Stack
+
 <ul>
- <li><b>Frontend:</b> HTML · CSS · JavaScript</li>
- <li><b>Backend:</b> Node.js (basic) </li>
-<li><b> Databases:</b> SQL (basic)  </li>
- <li> <b>Automation:</b> Excel VBA  </li>
-<li><b>Learning:</b> Java · Spring Boot</li>
-<li><b>Tools:</b> Git · GitHub · VS Code · Docker</li>
+  <li><strong>Backend (focus):</strong> Java · Spring Boot · Spring Data JPA · REST APIs</li>
+  <li><strong>Database:</strong> SQL </li>
+  <li><strong>Infrastructure:</strong> Linux · Apache · Nginx · Docker (learning)</li>
+  <li><strong>Frontend:</strong> HTML · CSS · JavaScript</li>
+  <li><strong>Tools:</strong> Git · GitHub · VS Code </li>
 </ul>
 
-<h4> 📫 Let's connect </h4>
+## 🚀 Projects
+
 <ul>
- <li>Portfolio: www.urielara.dev </li>  
-<li>LinkedIn: https://www.linkedin.com/in/urielara/ </li> 
+  <!--  <li>  🔗 <a href="link"><strong>Task Manager API</strong></a> — REST API built with Spring Boot + JPA + PostgreSQL </li> -->
+   <!-- <li> 🔗 <a href="link"><strong>Inventory Control API</strong></a> — REST API with entity relationships, DTOs and Swagger docs </li>  -->
+  <li>
+    🔗 <a href="https://musicosyartistasaescena.com/"><strong>MUSARES Website</strong></a> — Corporate site deployed on Linux with Apache + SSL
+  </li>
+</ul>
+
+## 📫 Let's connect
+<ul>
+  <li><strong>Portfolio:</strong> <a href="https://www.urielara.dev">www.urielara.dev</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/urielara/">linkedin.com/in/urielara</a></li>
 </ul>
