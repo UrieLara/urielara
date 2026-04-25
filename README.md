@@ -26,14 +26,14 @@ I bring experience from industrial automation (PLCs, SCADA, Linux servers) into 
 
 | Project | Description |
 |---------|-------------|
-| [MUSARES Website](https://musicosyartistasaescena.com/) | Corporate site for a civil association. Deployed on Linux + Apache + SSL. Real client, active maintenance. |
+| [MUSARES Website](https://musicosyartistasaescena.com/) 🎵| Corporate site for a civil association. Deployed on Linux + Apache + SSL. Real client, active maintenance. |
 
 ### 🎮 Game Development (Unity)
 
 | Project | Description |
 |---------|-------------|
-| [Balloon Fight Recreation](https://urielara.itch.io/balloon-fight-recreation) | 2D recreation of classic mechanics: movement, enemy AI, collisions, lives system. |
-| [Hunter Duck Mechanics](https://github.com/UrieLara/Elotes) | Aiming system, projectile physics, collision detection, visual feedback. _(In progress)_ |
+| [Balloon Fight Recreation](https://urielara.itch.io/balloon-fight-recreation) 🎈 | 2D recreation of classic mechanics: movement, enemy AI, collisions, lives system. |
+| [Elotes (Hunter Duck Mechanics)](https://github.com/UrieLara/Elotes) 🌽| Aiming system, projectile physics, collision detection, visual feedback. _(In progress)_ |
 
 ## 🧪 Currently Building
 
