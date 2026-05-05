@@ -1,49 +1,53 @@
 # 👋 Hi, I'm Uriel
 
-**Mechatronics engineer** building things in two worlds: **backend systems** and **video games**.  
-I bring experience from industrial automation (PLCs, SCADA, Linux servers) into clean, efficient code.
+**Backend Java Developer** and **Game Developer (Unity / C#)** with an engineering 
+background in industrial automation.
 
-> *From automation to code.*
+I write clean, maintainable and efficient code — whether it's a REST API or a gameplay system.
+My foundation in mechatronics gives me a systems-level perspective that I apply to every project.
 
 ---
 
-## 🛠 What I'm working with
+## 🛠 Tech Stack
 
 | Area | Technologies |
 |------|--------------|
-| Backend | Java · Spring Boot · REST APIs |
-| Databases | SQL (MySQL) |
-| Infrastructure | Linux · Apache · Nginx |
-| Game Dev | Unity · C# · Godot _(academic)_ |
-| Frontend | HTML · CSS · JavaScript |
+| Backend | Java · Spring Boot · REST APIs · JPA/Hibernate |
+| Databases | MySQL · SQL |
+| Infrastructure | Linux · Apache · VMware ESXi · SSL/HTTPS |
+| Game Dev | Unity (C#) · Godot _(academic)_ |
+| Frontend | HTML · CSS · JavaScript · Tailwind |
 | Tools | Git · GitHub · VS Code |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Web Development
-
+### ⚙️ Backend
 | Project | Description |
 |---------|-------------|
-| [MUSARES Website](https://musicosyartistasaescena.com/) 🎵| Corporate site for a civil association. Deployed on Linux + Apache + SSL. Real client, active maintenance. |
+| [Task Manager API](https://github.com/UrieLara) 🗂️ | REST API built with Java + Spring Boot + JPA + MySQL. Layered architecture, CRUD endpoints, exception handling. _(In development)_ |
 
-### 🎮 Game Development (Unity)
-
+### 🌐 Web — Live Projects
 | Project | Description |
 |---------|-------------|
-| [Balloon Fight Recreation](https://urielara.itch.io/balloon-fight-recreation) 🎈 | 2D recreation of classic mechanics: movement, enemy AI, collisions, lives system. |
-| [Elotes (Hunter Duck Mechanics)](https://github.com/UrieLara/Elotes) 🌽| Aiming system, projectile physics, collision detection, visual feedback. _(In progress)_ |
+| [VICA AOI SRL](https://www.vicaaoi.com.ar) 🏭 | Full corporate site redesign. Deployed on local Linux server (Apache, VMware ESXi, SSL). Real client — generated new business inquiries. |
+| [MUSARES](https://musicosyartistasaescena.com/) 🎵 | Institutional site for a civil association. Migrated from .NET to static frontend on Netlify + Formspree API. Active maintenance. |
+
+### 🎮 Game Dev (Unity / Godot)
+| Project | Description |
+|---------|-------------|
+| [Elotes](https://urielara.itch.io/elotes) 🌽 | Duck Hunt-inspired game. Unity Events, ScriptableObjects, Coroutines, dynamic spawning. Pixel art assets and 8-bit menu music by me. |
+| [Balloon Fight Recreation](https://urielara.itch.io/balloon-fight-recreation) 🎈 | NES recreation. Flight physics, collision system, enemy state logic. Built in Godot. |
+
+---
 
 ## 🧪 Currently Building
-
-- Java CRUD API (Java + SQL)
-- Unity Performance Tech Demo (object pooling, culling, FPS analysis)
+- **Task Manager REST API** — Java · Spring Boot · JPA · MySQL · Swagger
 
 ---
 
 ## 📫 Connect
-
-- Portfolio: [urielara.dev](https://urielara.dev) 
-- LinkedIn: [linkedin.com/in/urielara](https://linkedin.com/in/urielara)
-- Email: laracastrouriel@gmail.com
+- 🌐 Portfolio: [urielara.dev](https://urielara.dev)
+- 💼 LinkedIn: [linkedin.com/in/urielara](https://linkedin.com/in/urielara)
+- ✉️ Email: laracastrouriel@gmail.com
