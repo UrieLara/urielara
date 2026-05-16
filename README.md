@@ -1,53 +1,45 @@
 # 👋 Hi, I'm Uriel
 
-**Backend Java Developer** and **Game Developer (Unity / C#)** with an engineering 
-background in industrial automation.
+**Interactive Experience Developer & Mechatronic Engineer.**
 
-I write clean, maintainable and efficient code — whether it's a REST API or a gameplay system.
-My foundation in mechatronics gives me a systems-level perspective that I apply to every project.
-
----
+I build things where hardware and software meet — games, embedded 
+systems, interactive interfaces and web applications. My background 
+in industrial automation gives me something most creative devs don't 
+have: I know how physical systems behave, and I know how to control 
+them with code.
 
 ## 🛠 Tech Stack
 
 | Area | Technologies |
-|------|--------------|
-| Backend | Java · Spring Boot · REST APIs · JPA/Hibernate |
+|---|---|
+| Game Dev | Unity · C# · Godot · GDScript |
+| Embedded | ESP32 · Arduino · PLCs · LabVIEW |
+| Backend | Java · Spring Boot · REST APIs · JPA |
+| Web | HTML · CSS · JavaScript · Tailwind |
 | Databases | MySQL · SQL |
-| Infrastructure | Linux · Apache · VMware ESXi · SSL/HTTPS |
-| Game Dev | Unity (C#) · Godot _(academic)_ |
-| Frontend | HTML · CSS · JavaScript · Tailwind |
-| Tools | Git · GitHub · VS Code |
-
----
+| Tools | Git · GitHub · Linux · VS Code |
 
 ## 🚀 Featured Projects
 
-### ⚙️ Backend
-| Project | Description |
-|---------|-------------|
-| [Task Manager API](https://github.com/UrieLara) 🗂️ | REST API built with Java + Spring Boot + JPA + MySQL. Layered architecture, CRUD endpoints, exception handling. _(In development)_ |
-
-### 🌐 Web — Live Projects
-| Project | Description |
-|---------|-------------|
-| [VICA AOI SRL](https://www.vicaaoi.com.ar) 🏭 | Full corporate site redesign. Deployed on local Linux server (Apache, VMware ESXi, SSL). Real client — generated new business inquiries. |
-| [MUSARES](https://musicosyartistasaescena.com/) 🎵 | Institutional site for a civil association. Migrated from .NET to static frontend on Netlify + Formspree API. Active maintenance. |
-
-### 🎮 Game Dev (Unity / Godot)
+### 🎮 Game Dev
 | Project | Description |
 |---------|-------------|
 | [Elotes](https://urielara.itch.io/elotes) 🌽 | Duck Hunt-inspired game. Unity Events, ScriptableObjects, Coroutines, dynamic spawning. Pixel art assets and 8-bit menu music by me. |
 | [Balloon Fight Recreation](https://urielara.itch.io/balloon-fight-recreation) 🎈 | NES recreation. Flight physics, collision system, enemy state logic. Built in Godot. |
 
----
+### ⚙️ Backend & Web
+| Project | Description |
+|---------|-------------|
+| [Task Manager API](https://github.com/UrieLara/Reservation-API) 🗂️ | REST API — Java · Spring Boot · JPA · MySQL. Layered architecture, CRUD, exception handling. |
+| [VICA AOI SRL](https://www.vicaaoi.com.ar) 🏭 | Full corporate site redesign. Deployed on local Linux server (Apache, VMware ESXi, SSL). Real client — generated new business inquiries. |
+| [MUSARES](https://musicosyartistasaescena.com/) 🎵 | Institutional site for a civil association. Migrated from .NET to static frontend on Netlify + Formspree API. Active maintenance. |
+
 
 ## 🧪 Currently Building
-- **Task Manager REST API** — Java · Spring Boot · JPA · MySQL · Swagger
-
----
+- 🎮 Exploring hardware-software interaction projects with ESP32 + Unity
+- 📚 Fullstack Web Development with Java — CFP 403, Argentina
+- 🎓 Video Game Development — UNLaM, Argentina
 
 ## 📫 Connect
-- 🌐 Portfolio: [urielara.dev](https://urielara.dev)
-- 💼 LinkedIn: [linkedin.com/in/urielara](https://linkedin.com/in/urielara)
-- ✉️ Email: laracastrouriel@gmail.com
+🌐 [urielara.dev](https://urielara.dev)  
+💼 [linkedin.com/in/urielara](https://linkedin.com/in/urielara)
