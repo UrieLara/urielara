@@ -10,7 +10,7 @@ I enjoy turning ideas into software—from web applications and AI experiments t
 |---|---|
 | Game Development | Unity · C# · Godot · GDScript |
 | Web | HTML · CSS · JavaScript · Tailwind |
-| Backend | Java |
+| Backend | Java · Python |
 | Databases | MySQL |
 | Embedded | ESP32 · Arduino |
 | Tools | Git · GitHub · Linux · VS Code |
