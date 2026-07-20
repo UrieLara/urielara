@@ -1,27 +1,49 @@
 # 👋 Hi, I'm Uriel
 
-**Building software, games and interactive experiences.**
+### Tool Programmer (Unity) • Gameplay Systems • Hardware-Integrated Experiences
 
-I enjoy turning ideas into software—from web applications and AI experiments to games and developer tools. Curious by nature, always building something new.
+I build tools, gameplay systems, and interactive experiences that make game development faster, cleaner, and easier to maintain.
+
+My main focus is **Unity (C#)**, where I enjoy creating editor tools, workflow automation, and scalable gameplay architectures.  
+I also work with **Godot (GDScript)** and explore projects that combine games with embedded hardware such as **ESP32** and **Arduino**.
+
+---
 
 ## 🛠 Tech Stack
 
-| Area | Technologies |
-|---|---|
-| Game Development | Unity · C# · Godot · GDScript |
-| Web | HTML · CSS · JavaScript · Tailwind |
-| Backend | Java · Python |
-| Databases | MySQL |
-| Embedded | ESP32 · Arduino |
-| Tools | Git · GitHub · Linux · VS Code |
+| Focus | Technologies |
+|--------|--------------|
+| **Game Development** | Unity · C# · Godot · GDScript |
+| **Tool Development** | Unity Editor Scripting · Custom Inspectors · Editor Windows · ScriptableObjects |
+| **Gameplay Programming** | State Machines · Event-Driven Architecture · Modular Systems |
+| **Interactive Hardware** | ESP32 · Arduino · Sensors · Microcontrollers |
+| **Development** | Git · GitHub · Linux · Java · Python |
 
+---
 
-## 🧪 Currently Building
-- 🎮 2D & 3D games with Unity and Godot
-- 🔌 Interactive hardware–software projects with ESP32 + Unity
-- 🌐 Full-stack web applications with Java
-- 🤖 Exploring AI and modern software development
+---
+
+## 🎯 What I Enjoy Building
+
+- 🛠 Editor tools that automate repetitive tasks
+- ⚙ Gameplay systems with clean, scalable architecture
+- 🎮 Reusable frameworks and utilities for game development
+- 🔌 Interactive experiences combining games and embedded hardware
+- 🚀 Workflows that help developers and designers iterate faster
+
+---
+
+## 🚧 Currently Working On
+
+- Unity Editor tools
+- Gameplay systems and technical architecture
+- Godot workflow addons
+- ESP32 + Unity interactive prototypes
+- Expanding my knowledge of engine tooling and game architecture
+
+---
 
 ## 📫 Connect
 🌐 [urielara.dev](https://urielara.dev)  
-💼 [linkedin.com/in/urielara](https://linkedin.com/in/urielara)
+💼 [linkedin.com/in/urielara](https://linkedin.com/in/urielara)  
+🎮 [itch.io](https://urielara.itch.io/)  
