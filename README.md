@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Uriel
 
-### Tool Programmer (Unity) • Gameplay Systems • Hardware-Integrated Experiences
+### Unity Developer • Gameplay & Tools Programmer • Hardware Integration
 
-I build tools, gameplay systems, and interactive experiences that make game development faster, cleaner, and easier to maintain.
+I build tools and gameplay systems that make game development faster and easier to maintain. My background in mechatronics engineering drives how I work: turning repetitive processes into clean, scalable systems.
 
-My main focus is **Unity (C#)**, where I enjoy creating editor tools, workflow automation, and scalable gameplay architectures.  
-I also work with **Godot (GDScript)** and explore projects that combine games with embedded hardware such as **ESP32** and **Arduino**.
+My main focus is Unity (C#), where I create editor tools, workflow automation, and gameplay architectures.  
+I also work with Godot (GDScript) and explore projects that connect games with embedded hardware like ESP32 and Arduino.
 
 ---
 
@@ -21,29 +21,8 @@ I also work with **Godot (GDScript)** and explore projects that combine games wi
 
 ---
 
----
 
-## 🎯 What I Enjoy Building
-
-- 🛠 Editor tools that automate repetitive tasks
-- ⚙ Gameplay systems with clean, scalable architecture
-- 🎮 Reusable frameworks and utilities for game development
-- 🔌 Interactive experiences combining games and embedded hardware
-- 🚀 Workflows that help developers and designers iterate faster
-
----
-
-## 🚧 Currently Working On
-
-- Unity Editor tools
-- Gameplay systems and technical architecture
-- Godot workflow addons
-- ESP32 + Unity interactive prototypes
-- Expanding my knowledge of engine tooling and game architecture
-
----
-
-## 📫 Connect
+## 📫 Let's Connect
 🌐 [urielara.dev](https://urielara.dev)  
 💼 [linkedin.com/in/urielara](https://linkedin.com/in/urielara)  
 🎮 [itch.io](https://urielara.itch.io/)  
